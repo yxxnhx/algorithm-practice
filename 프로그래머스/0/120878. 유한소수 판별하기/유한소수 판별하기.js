@@ -1,1 +1,4 @@
-const solution = (a, b) => (a / b).toString().split('.')[1]?.length > 10 ? 2 : 1;
+function solution(a, b) {
+    var answer = 0;
+    return answer;
+}
